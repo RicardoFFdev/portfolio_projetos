@@ -1,9 +1,9 @@
- <h1 align="center"> Portfólio de Ciência de Dados </h1>
+ <h1 align="center"> Data Science Portfolio </h1>
 
-### Olá, seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados.
+### Hello, and welcome to my Data Science projects portfolio. My name is Ricardo de Freitas Fernandes.
 
-Meu nome é Ricardo Fernandes,
-Aqui você encontrará informações sobre as minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados.
-Além disso, compartilharei minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
 
-###### [Visualizar Portfólio](https://ricardoffdev.github.io/portfolio_projetos/)
+Here you will find information about my skills in solving business problems using Data Science concepts and tools.
+Additionally, I will share my professional experiences, skills, tools, and concepts related to Data Science.
+
+### [View Portfolio](https://ricardoffdev.github.io/portfolio_projetos/)
